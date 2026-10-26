@@ -85,5 +85,6 @@ A portal for a residential condominium with community information, finances and 
 
 Open to junior full stack, backend and web development roles, internships and freelance projects.
 
+<a href="https://www.linkedin.com/in/iancastillogazel"><img src="https://img.shields.io/badge/LinkedIn-iancastillogazel-0B1A30?style=for-the-badge&logo=linkedin&logoColor=38BDF8" alt="LinkedIn"></a>
 <a href="mailto:ianadriano23@gmail.com"><img src="https://img.shields.io/badge/Email-ianadriano23%40gmail.com-0B1A30?style=for-the-badge&logo=gmail&logoColor=38BDF8" alt="Email"></a>
 <a href="https://github.com/Castillo2308"><img src="https://img.shields.io/badge/GitHub-Castillo2308-0B1A30?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
