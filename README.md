@@ -73,7 +73,7 @@ A portal for a residential condominium with community information, finances and 
 <p align="center"><img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,fastapi,django,flask,spring,prisma&perline=10" alt="Node.js, Express, NestJS, FastAPI, Django, Flask, Spring Boot, Prisma"></p>
 
 ### Databases
-<p align="center"><img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase,supabase,redis,sqlite&perline=10" alt="PostgreSQL, MySQL, MongoDB, Firebase, Supabase, Redis, SQLite"></p>
+<p align="center"><img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase,supabase,redis&perline=10" alt="PostgreSQL, MySQL, MongoDB, Firebase, Supabase, Redis"></p>
 <p align="center">
   <img src="https://img.shields.io/badge/SQL-0B1A30?style=for-the-badge" alt="SQL">
   <img src="https://img.shields.io/badge/Neon_Postgres-0B1A30?style=for-the-badge&logo=neon&logoColor=38BDF8" alt="Neon Postgres">
