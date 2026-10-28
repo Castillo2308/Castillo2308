@@ -64,24 +64,27 @@ A portal for a residential condominium with community information, finances and 
 ## Tech stack
 
 ### Languages
-<p align="center"><img src="https://skillicons.dev/icons?i=ts,js,py,java,html,css&perline=10" alt="TypeScript, JavaScript, Python, Java, HTML, CSS"></p>
+<p align="center"><img src="https://skillicons.dev/icons?i=ts,js,py,java,php,html,css,bash,powershell&perline=10" alt="TypeScript, JavaScript, Python, Java, PHP, HTML, CSS, Bash, PowerShell"></p>
 
 ### Frontend
-<p align="center"><img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind&perline=10" alt="React, Next.js, Vite, Tailwind CSS"></p>
+<p align="center"><img src="https://skillicons.dev/icons?i=react,nextjs,angular,astro,vite,tailwind&perline=10" alt="React, Next.js, Angular, Astro, Vite, Tailwind CSS"></p>
 
 ### Backend
-<p align="center"><img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,spring,prisma&perline=10" alt="Node.js, Express, FastAPI, Spring Boot, Prisma"></p>
+<p align="center"><img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,fastapi,django,flask,spring,prisma&perline=10" alt="Node.js, Express, NestJS, FastAPI, Django, Flask, Spring Boot, Prisma"></p>
 
 ### Databases
-<p align="center"><img src="https://skillicons.dev/icons?i=postgres,mongodb&perline=10" alt="PostgreSQL, MongoDB"></p>
+<p align="center"><img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase,supabase,redis,sqlite&perline=10" alt="PostgreSQL, MySQL, MongoDB, Firebase, Supabase, Redis, SQLite"></p>
 <p align="center">
+  <img src="https://img.shields.io/badge/SQL-0B1A30?style=for-the-badge" alt="SQL">
+  <img src="https://img.shields.io/badge/Neon_Postgres-0B1A30?style=for-the-badge&logo=neon&logoColor=38BDF8" alt="Neon Postgres">
+  <img src="https://img.shields.io/badge/SQL_Server-0B1A30?style=for-the-badge" alt="SQL Server">
   <img src="https://img.shields.io/badge/Oracle_Autonomous_DB-0B1A30?style=for-the-badge&logo=oracle&logoColor=38BDF8" alt="Oracle Autonomous DB">
   <img src="https://img.shields.io/badge/SQLAlchemy-0B1A30?style=for-the-badge&logo=sqlalchemy&logoColor=38BDF8" alt="SQLAlchemy">
   <img src="https://img.shields.io/badge/Mongoose-0B1A30?style=for-the-badge&logo=mongoose&logoColor=38BDF8" alt="Mongoose">
 </p>
 
 ### Cloud & tools
-<p align="center"><img src="https://skillicons.dev/icons?i=git,github,githubactions,vercel,netlify,gcp,linux,vscode,npm&perline=10" alt="Git, GitHub, GitHub Actions, Vercel, Netlify, Google Cloud, Linux, VS Code, npm"></p>
+<p align="center"><img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,vercel,netlify,gcp,linux,vscode,npm&perline=10" alt="Git, GitHub, GitHub Actions, Docker, Vercel, Netlify, Google Cloud, Linux, VS Code, npm"></p>
 
 ### Cybersecurity
 <p align="center">
